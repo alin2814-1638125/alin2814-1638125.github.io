@@ -1,0 +1,74 @@
+body{
+    background-image: url('day6logogradient3.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+}
+
+#Header h1{
+    border:solid 3px antiquewhite;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 300px;
+    font-family: "Mansalva";
+    background-color: antiquewhite;
+    border-radius: 15px;
+    font-size: 40px;
+}
+
+#Official{
+    float: left;
+    font-size: 30px;
+}
+
+#Official h5{
+    color: antiquewhite;
+}
+
+#Videos{
+    float: right;
+
+}
+
+#Videos h2{
+    color: antiquewhite;
+    font-size: 30px;
+}
+#Intro{
+    border: solid 3px antiquewhite;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #0aa8ac;
+    margin-bottom: 30px;
+    
+}
+
+#Intro h3{
+    font-size: 20px;
+}
+#Images{
+    width: 500px;
+    margin-left:auto;
+    margin-right: auto;
+    border: solid 3px antiquewhite;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #0aa8ac;
+}
+
+#Images h4{
+    color: rgb(56, 15, 109);
+    font-size: 20px;
+}
+a{
+    font size: 30px;
+    color: lightblue;
+    font-weight: bold;
+    font-style: italic;
+}
+
